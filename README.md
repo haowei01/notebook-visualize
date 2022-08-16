@@ -5,4 +5,4 @@
  m
 ```
 
-[s2cell](./examples/s2cell.png)
+![s2cell](./examples/s2cell.png)
